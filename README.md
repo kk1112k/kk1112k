@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Heeso🧸&fontSize=70&textColor=white)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Heeso🧸&fontSize=70)
 
 <div align=center>
