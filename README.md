@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&=gradient&height=300&section=header&text=Heeso🧸&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Heeso🧸&fontSize=70&textColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Heeso🧸&fontSize=70)
 
 <div align=center>
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkk1112k&count_bg=%23FF1515&title_bg=%23FF9AEC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 </div>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
