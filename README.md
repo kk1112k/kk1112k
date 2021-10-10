@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&animation=fadeIncolor=gradient&height=300&section=header&text=Heeso🩰&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&&animation=fadeIncolor=gradient&height=300&section=header&text=Heeso🧸&fontSize=70)
 
 <div align=center>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br>
  [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)]
 <br>
-## 🧸 m e 
+## ✨ m e 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@kk1112k)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kk1112k@gmail.com)
 <br>
 ### 📬  t o d a y 
