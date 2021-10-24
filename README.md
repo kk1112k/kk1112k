@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HEESO🧸&fontSize=90)
 ## 🐣 a b o u t 🐣
-<h3 align="center"> 🤏 Welcome to Heeso World ! 🤏 </h3>
+<h3 align="center"> ## 🐣 a b o u t 🐣 <br>Welcome to Heeso World ! 🤏 </h3>
 <p align="center">
 I'm SoHee KIM, a Back-End developer. 💻🔥 <br>
 Favorite :🍉,🍖,🍷
 </p>
- <br>
+
 
 
 <div align=center>
