@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm SoHee KIM, a Back-End developer. 💻🔥 <br>
 Favorite :🍉,🍖,🍷
 </p>
-<h3 align="center">✨ Tech Stack ✨ </h3>
+
 <div align=center>
 
 ## 💕 t e c h 💕
@@ -39,5 +39,4 @@ Favorite :🍉,🍖,🍷
 <br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
 </div>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
