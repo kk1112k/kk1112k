@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HEESO🧸&fontSize=70)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HEESO🧸&fontSize=90)
 <h3 align="center"> 🤏 Welcome to Heeso World ! 🤏 </h3>
 <p align="center">
@@ -38,7 +37,7 @@ Favorite :🍉,🍖,🍷
 ### 📬  t o d a y 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkk1112k&count_bg=%23FF1515&title_bg=%23FF9AEC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
 </div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
