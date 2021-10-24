@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HEESO🧸&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HEESO🧸&fontSize=90)
+<h3 align="center"> 🤏 Welcome to Heeso World ! 🤏 </h3>
+<p align="center">
+I'm SoHee KIM, a Back-End developer. 💻🔥 <br>
+Favorite :🍉,🍖,🍷
+</p>
+<h3 align="center">✨ Tech Stack ✨ </h3>
 <div align=center>
 
 ## 💕 t e c h 💕
@@ -34,5 +40,5 @@ Here are some ideas to get you started:
 <br>
 
 </div>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
