@@ -44,9 +44,8 @@ Favorite :🍉,🍖,🍷
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=400px/>
 </a><br><br>
- 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src=&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9"  width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
 
 </div>
