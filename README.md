@@ -40,7 +40,7 @@ Favorite :🍉,🍖,🍷
 </a>
  
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=dark&ring=C691E94D&fire=C691E9&sideNums=C691E9&bg_color =CCE5FF&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=400px/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=buefy&ring=C691E94D&fire=C691E9&sideNums=C691E9&bg_color =CCE5FF&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=400px/>
 </a><br><br>
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=buefy)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
