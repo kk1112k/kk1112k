@@ -43,7 +43,6 @@ Favorite :🍉,🍖,🍷
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=flag-india&hide_border=true" width=400px/>
 </a><br><br>
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=lucent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=lucent&hide_border=true&line=ffa500&color=C691E9C9&bg_color=fff" width=98%/>
