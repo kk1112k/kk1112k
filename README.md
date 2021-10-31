@@ -44,18 +44,13 @@ Favorite :🍉,🍖,🍷
 </a><br><br>
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=buefy)](https://git.io/streak-stats)
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true)
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kk1112k&theme=buefy&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kk1112k&theme=buefy&show_icons=true&hide_border=true" width=400px/)
  
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=buefy&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
-</a>
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
