@@ -47,7 +47,7 @@ Favorite :🍉,🍖,🍷
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kk1112k&theme=buefy&show_icons=true&hide_border=true" width=400px/)
  
