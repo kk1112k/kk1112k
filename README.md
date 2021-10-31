@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .......
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFBEC3&height=300&section=header&text=HEESO🧸&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HEESO🧸&fontSize=90)
 <div align=center>
 
 ## 🐣 a b o u t 🐣
@@ -36,7 +36,7 @@ Favorite :🍉,🍖,🍷
 <br>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kk1112k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=003A1E" width=400px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kk1112k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=#FABFBA&icon_color=E3E3E3A8&text_color=#FABFBA" width=400px />
 </a>
  
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
