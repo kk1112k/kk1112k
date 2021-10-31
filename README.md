@@ -49,7 +49,7 @@ Favorite :🍉,🍖,🍷
  
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=solarized-light&bg_color=#f8c9c9&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=buefy&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
 </a>
 
 </div>
