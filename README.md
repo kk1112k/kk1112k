@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HEESO🧸&fontSize=90)
 <div align=center>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80안!녕!+반가워!%2C+나는+Yeonhee.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
+<br><br><br>
 ## 🐣 a b o u t 🐣
 <h3 align="center">Welcome to Heeso World ! 🤏 </h3>
 <p align="center">
