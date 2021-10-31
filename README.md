@@ -40,18 +40,8 @@ Favorite :🍉,🍖,🍷
 </a>
  
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=buefy&ring=C691E94D&fire=C691E9&sideNums=C691E9&hide_border=true" width=400px/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=buefy&hide_border=true" width=400px/>
 </a><br><br>
- 
- <a href="https://github.com/denvercoder1/github-readme-streak-stats">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=buefy)](https://git.io/streak-stats)
- 
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kk1112k&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
- 
-
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
