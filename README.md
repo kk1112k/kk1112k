@@ -36,7 +36,7 @@ Favorite :🍉,🍖,🍷
 <br>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kk1112k&show_icons=true&theme=solarized-light&hide_border=true&bg_color=#FABFBA&icon_color=E3E3E3A8&text_color=#FABFBA" width=400px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kk1112k&show_icons=true&theme=buefy&hide_border=true&bg_color=#FABFBA&icon_color=E3E3E3A8&text_color=#FABFBA" width=400px />
 </a>
  
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
