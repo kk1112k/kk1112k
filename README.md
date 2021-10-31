@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <h3 align="center">Welcome to Heeso World ! 🤏 </h3>
 <p align="center">
 I'm SoHee KIM, a Back-End developer. 💻🔥 <br>
-Favorite :🍉,🍖,🍷 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@kk1112k)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kk1112k@gmail.com)
+Favorite :🍉,🍖,🍷 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@kk1112k) 
+ [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:kk1112k@gmail.com)
 </p>
 </div>
 <div align=center>
