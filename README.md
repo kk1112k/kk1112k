@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HEESO🧸&fontSize=90)
 <div align=center>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80안!녕!+반가워!%2C+나는+Yeonhee.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80welcome+to%2C+HEESO+World🧸.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 <br><br><br>
 ## 🐣 a b o u t 🐣
 <h3 align="center">Welcome to Heeso World ! 🤏 </h3>
@@ -47,7 +46,7 @@ Favorite :🍉,🍖,🍷
 </a><br><br>
  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=FFCC00" width=98%/>
+<img src=&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9"  width=98%/>
 </a>
 
 </div>
