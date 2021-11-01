@@ -45,7 +45,7 @@ Favorite :🍉,🍖,🍷
  
 <!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=gruvbox&hide_border=true&bg_color=fff" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=kk1112k&theme=gruvbox&hide_border=true&bg_color=fff" width=97%/>
 </a>--!>
 </div>
 
